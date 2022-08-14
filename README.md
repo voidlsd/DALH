@@ -1,5 +1,4 @@
 # DALH
-Discord Audit Log Hanger. 
-It lags/hangs the audit logs and makes the audit logs hard to load, it also lags the guild.
+Discord Audit Log Hanger. It lags the audit logs and the guild. Forces the audit logs to buffer for a long time. 
 
 Epic exploit ^-^
